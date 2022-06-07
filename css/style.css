@@ -1,0 +1,41 @@
+.submit-aria{
+    margin-top: 50px;
+    border-radius: 10px;
+    padding: 40px;
+    box-shadow: 5px 5px 10px gray;
+    
+}
+
+#trenj{
+    display: none;
+}
+
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.blance{
+    background-color: orange;
+}
+
+.status{
+    margin: 0 20px;
+    color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#trenj{
+       margin-top: 20px
+ 
+}
+
+
+#login-aria{
+    width: 50%;
+    height: 50p%;
+    margin: auto;
+    background-color: lightslategrey;
+}
